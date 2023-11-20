@@ -1,0 +1,16 @@
+C:\Users\shcherbakov.mark\source\repos\MediaPlayerProjekt\MediaPlayerProjekt\bin\Debug\MediaPlayerProjekt.exe.config
+C:\Users\shcherbakov.mark\source\repos\MediaPlayerProjekt\MediaPlayerProjekt\bin\Debug\MediaPlayerProjekt.exe
+C:\Users\shcherbakov.mark\source\repos\MediaPlayerProjekt\MediaPlayerProjekt\bin\Debug\MediaPlayerProjekt.pdb
+C:\Users\shcherbakov.mark\source\repos\MediaPlayerProjekt\MediaPlayerProjekt\bin\Debug\Interop.WMPLib.dll
+C:\Users\shcherbakov.mark\source\repos\MediaPlayerProjekt\MediaPlayerProjekt\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\shcherbakov.mark\source\repos\MediaPlayerProjekt\MediaPlayerProjekt\obj\Debug\MediaPlayerProjekt.csproj.AssemblyReference.cache
+C:\Users\shcherbakov.mark\source\repos\MediaPlayerProjekt\MediaPlayerProjekt\obj\Debug\MediaPlayerProjekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\shcherbakov.mark\source\repos\MediaPlayerProjekt\MediaPlayerProjekt\obj\Debug\Interop.WMPLib.dll
+C:\Users\shcherbakov.mark\source\repos\MediaPlayerProjekt\MediaPlayerProjekt\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\shcherbakov.mark\source\repos\MediaPlayerProjekt\MediaPlayerProjekt\obj\Debug\MediaPlayerProjekt.csproj.ResolveComReference.cache
+C:\Users\shcherbakov.mark\source\repos\MediaPlayerProjekt\MediaPlayerProjekt\obj\Debug\MediaPlayerProjekt.Form1.resources
+C:\Users\shcherbakov.mark\source\repos\MediaPlayerProjekt\MediaPlayerProjekt\obj\Debug\MediaPlayerProjekt.Properties.Resources.resources
+C:\Users\shcherbakov.mark\source\repos\MediaPlayerProjekt\MediaPlayerProjekt\obj\Debug\MediaPlayerProjekt.csproj.GenerateResource.cache
+C:\Users\shcherbakov.mark\source\repos\MediaPlayerProjekt\MediaPlayerProjekt\obj\Debug\MediaPlayerProjekt.csproj.CoreCompileInputs.cache
+C:\Users\shcherbakov.mark\source\repos\MediaPlayerProjekt\MediaPlayerProjekt\obj\Debug\MediaPlayerProjekt.exe
+C:\Users\shcherbakov.mark\source\repos\MediaPlayerProjekt\MediaPlayerProjekt\obj\Debug\MediaPlayerProjekt.pdb
