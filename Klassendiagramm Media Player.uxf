@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.0.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>40</x>
+      <y>40</y>
+      <w>210</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>Media Player
+--
+- mediaList: List&lt;Media&gt;
+--
++ play(): void                 
++ pause(): void                
++ stop(): void                 
++ weiter(): void                 
++ zurück(): void 
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>40</x>
+      <y>210</y>
+      <w>210</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>Media
+--
+- title: string
+- länge: int
+- datei: sting
+--
++getTitle(): string
++getLänge(): int
++getDatei: stRing
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
